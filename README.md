@@ -3,6 +3,8 @@
 
 <!-- 백준-->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=lwhprt12)](https://solved.ac/profile/lwhprt12)
+<!-- 프로그래머스-->
+![Programmers Badge](https://raw.githubusercontent.com/Won-Hyuk-Lee/Programmers_Badge_Generator/main/result/result.svg)
 
 <!--테크스펙-->
 
