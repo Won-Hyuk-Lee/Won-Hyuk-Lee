@@ -13,8 +13,8 @@
 ---
 
 ## 📝 Blog & Study Records
-- ✍️ [개발 블로그]((https://lwhprt12.tistory.com/)): 개인일기, 기술공유, 학습관련 업로드
-- 💡 [알고리즘 풀이]((https://github.com/Won-Hyuk-Lee/Algorithm)): 문제 풀이 저장소  
+- ✍️ [개발 블로그](https://lwhprt12.tistory.com/): 개인일기, 기술공유, 학습관련 업로드
+- 💡 [알고리즘 풀이](https://github.com/Won-Hyuk-Lee/Algorithm): 문제 풀이 저장소
 
 ---
 
