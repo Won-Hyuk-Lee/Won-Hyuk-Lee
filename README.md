@@ -54,7 +54,9 @@
 
 
 <!-- 백준&프로그래머스 뱃지 -->
-<img src="http://mazassumnida.wtf/api/generate_badge?boj=lwhprt12" alt="백준" height="220">     ![Programmers Badge](https://raw.githubusercontent.com/Won-Hyuk-Lee/Programmers_Badge_Generator/main/result/result.svg)
+<img src="http://mazassumnida.wtf/api/generate_badge?boj=lwhprt12" alt="백준" height="200" width="380">   <img src="https://raw.githubusercontent.com/Won-Hyuk-Lee/Programmers_Badge_Generator/main/result/result.svg" alt="Programmers Badge" height="200" width="440">
+
+
 
 ---
 
