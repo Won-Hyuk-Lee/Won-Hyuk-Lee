@@ -49,51 +49,12 @@
 ---
 
 ## 📊 GitHub Stats
+![Won-Hyuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Won-Hyuk-Lee&show_icons=true&theme=radical)     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Won-Hyuk-Lee&layout=compact&theme=radical" alt="Top Langs" height="195">
 
-<div align="center">
 
-<table>
-  <tr>
-    <!-- GitHub Stats -->
-    <td>
-      <b>이원혁's GitHub Stats</b><br>
-      <ul>
-        <li>⭐ Total Stars Earned: 13</li>
-        <li>📋 Total Commits (2025): 537</li>
-        <li>🔀 Total PRs: 33</li>
-        <li>🐛 Total Issues: 29</li>
-        <li>📆 Contributed to (last year): 6</li>
-      </ul>
-    </td>
-    
-    <!-- Most Used Languages -->
-    <td>
-      <b>Most Used Languages</b><br>
-      <ul>
-        <li>CSS: 27.40%</li>
-        <li>C#: 25.92%</li>
-        <li>Java: 25.52%</li>
-        <li>HTML: 13.46%</li>
-        <li>JavaScript: 4.64%</li>
-        <li>ShaderLab: 3.07%</li>
-      </ul>
-    </td>
-  </tr>
 
-  <tr>
-    <!-- Baekjoon Badge -->
-    <td align="center">
-      ![Baekjoon](https://img.shields.io/badge/Baekjoon-00347B?style=for-the-badge&logo=baekjoon&logoColor=white)
-    </td>
-    
-    <!-- Programmers Badge -->
-    <td align="center">
-      ![Programmers](https://img.shields.io/badge/Programmers-222222?style=for-the-badge&logo=programmers&logoColor=white)
-    </td>
-  </tr>
-</table>
-
-</div>
+<!-- 백준&프로그래머스 뱃지 -->
+<img src="http://mazassumnida.wtf/api/generate_badge?boj=lwhprt12" alt="백준" height="220">     ![Programmers Badge](https://raw.githubusercontent.com/Won-Hyuk-Lee/Programmers_Badge_Generator/main/result/result.svg)
 
 ---
 
