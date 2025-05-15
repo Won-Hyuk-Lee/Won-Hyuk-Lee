@@ -8,12 +8,11 @@
 ## 📌 About Me
 - 🛠️ **관심 분야**: 서버 개발, 아키텍처 설계, 서비스 최적화
 - 🎯 **목표**: 돈을 써서라도 사용하고싶은 서비스 개발하기
-- 📫 **Contact**: [이메일](lwhprt@gmail.com) | [블로그](https://lwhprt12.tistory.com)
+- 📫 **Contact**: [이메일](lwhprt@gmail.com)
 
 ---
 
-## 📝 Blog & Study Records
-- ✍️ [개발 블로그](https://lwhprt12.tistory.com/): 개인일기, 기술공유, 학습관련 업로드
+## 📝 Study Records
 - 💡 [알고리즘 풀이](https://github.com/Won-Hyuk-Lee/Algorithm): 문제 풀이 저장소
 
 ---
@@ -62,6 +61,5 @@
 
 ## 📅 My Roadmap
 - [ ] AWS, 리눅스 자격증 취득
-- [ ] TDD와 AOP에 대한 이해
-- [ ] Kubernetes, docker, jenkins 학습 및 적용
 - [ ] 도메인 지식에 대해 전문성 가지기
+- [ ] 객체지향 심화
