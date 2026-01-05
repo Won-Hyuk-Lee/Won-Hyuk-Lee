@@ -48,7 +48,8 @@
 ---
 
 ## 📊 GitHub Stats
-![Won-Hyuk's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Won-Hyuk-Lee&show_icons=true&theme=radical)     <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Won-Hyuk-Lee&layout=compact&theme=radical" alt="Top Langs" height="195">
+| ![Won-Hyuk's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Won-Hyuk-Lee&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Won-Hyuk-Lee&layout=compact&theme=radical) |
+| --- | --- |
 
 
 
