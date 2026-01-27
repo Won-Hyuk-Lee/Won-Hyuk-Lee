@@ -42,11 +42,9 @@
 
 ---
 
-### 🏆 My GitHub Stats
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Won-Hyuk-Lee&theme=monokai" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Won-Hyuk-Lee&theme=monokai" />
-</p>
+## 📊 GitHub Stats
+| ![Won-Hyuk's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Won-Hyuk-Lee&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Won-Hyuk-Lee&layout=compact&theme=radical) |
+| --- | --- |
 
 
 
